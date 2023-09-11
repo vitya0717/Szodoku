@@ -1,0 +1,9 @@
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\bin\Debug\feladvanyok.txt
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe.config
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.pdb
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.exe
+C:\Users\tviktor\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.pdb
